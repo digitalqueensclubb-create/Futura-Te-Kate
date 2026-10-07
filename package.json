@@ -1,0 +1,10 @@
+{
+  "name": "futura-te-kate",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0",
+    "@netlify/blobs": "^11.1.3",
+    "@netlify/functions": "^6.0.2"
+  }
+}
